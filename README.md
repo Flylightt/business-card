@@ -7,5 +7,5 @@ $ npm install
 $ npm start
 ````
 
-this project is created from scrimba html+css cource:
+this project was created from scrimba html+css cource:
 https://scrimba.com/allcourses
